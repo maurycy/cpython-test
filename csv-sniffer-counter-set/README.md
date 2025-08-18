@@ -427,11 +427,11 @@ Benchmark hidden because not significant (2): csv_sniff(file_no_header.csv, 1024
 # Commands
 
 ```
-(508a00ceb2eb2d7835c1f72fabf8873232384d09) % ./python bench.py --rigorous -o main.json
+(main) % ./python bench.py --rigorous -o 508a00ceb2eb2d7835c1f72fabf8873232384d09.main.json
 ```
 
 ```
-(csv-sniffer-counter-set) ./python bench.py --rigorous -o csv-sniffer-counter-set.json
+(csv-sniffer-counter-set) ./python bench.py --rigorous -o 2f1ea73be0589e4baa4ca8d219c6963871a24855.csv-sniffer-counter-set.json
 ```
 
 # Environment
