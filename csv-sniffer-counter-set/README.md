@@ -1,5 +1,7 @@
 # Results
 
+Scroll the table to the right to see the numbers.
+
 | Benchmark                                                                                                 | 508a00ceb2eb2d7835c1f72fabf8873232384d09.main | 4b62c848bae2e2a28e8d70a8aa00ea35b5f5b0ca.csv-sniffer-counter-set |
 |-----------------------------------------------------------------------------------------------------------|:---------------------------------------------:|:----------------------------------------------------------------:|
 | csv_sniff(narrow.csv, 1024)                                                                               | 87.5 us                                       | 31.2 us: 2.81x faster                                            |
